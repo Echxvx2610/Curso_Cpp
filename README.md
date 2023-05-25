@@ -31,5 +31,8 @@ Fue diseñado a mediados de los años 80 por el danés Bjarne Stroustrup. Si int
 * Day22 Array's
 * Day23 sizeof()
 * Day24 Interar un Array
-* Day25 por determinar...
-* continuara....
+* Day25 foreach loop
+* Day26 Pasar array a una funcion
+* Day27 Buscar un elemento en un Array
+* Day28 Estructuras
+* Day29 Vectores
