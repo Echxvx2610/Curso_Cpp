@@ -1,4 +1,8 @@
-# Curso_Cpp
+# Curso_C++
+
+*Nota: Curso basado en topicos vistos en carrera(por lo tanto esta en curso)*
+
+
 Ruta de aprendizaje C++,curso basico con notas y ejemplos dentro de los archivos .cpp.
 C++ es un lenguaje de programación que proviene de la extensión del lenguaje C para que pudiese manipular objetos. A pesar de ser un lenguaje con muchos años, su gran potencia lo convierte en uno de los lenguajes de programación más demandados.
 
